@@ -1,0 +1,33 @@
+{
+  "summary_rows": 3172,
+  "detail_rows": 50764,
+  "wind_summary_rows": 90,
+  "damage_rows": 38,
+  "wind_recomputed_matches": true,
+  "duration_matches_dates": true,
+  "damage_exports_match": true,
+  "damage_sorted_descending": true,
+  "duplicate_complete_storm_ids": 0,
+  "incomplete_identities_quarantined": 80,
+  "ambiguous_season_name_candidates_quarantined": 70,
+  "damage_input_rows": 38,
+  "damage_link_status": {
+    "matched": 38
+  },
+  "missing_max_wind_retained": 23,
+  "detail_2016_missing_group_identity": 60,
+  "excel_sheets": [
+    "2016 Storms by Basin",
+    "2016 Basin by Type",
+    "2016 Wind Statistics",
+    "Damage Detail",
+    "2016 Basin Map Data"
+  ],
+  "notebook_execution": {
+    "status": "passed",
+    "executed_code_cells": 80,
+    "execution_mode": "Sequential Python cell execution with Agg and display shim; no Jupyter kernel",
+    "python": "3.12.14",
+    "elapsed_seconds": 1.49
+  }
+}
