@@ -2,7 +2,7 @@
 
 Open index.html or serve this directory with `python -m http.server 8080`. No build required.
 
-Live demo: https://alpha-traore-storm-analytics.alpha-traore8299.chatgpt.site (public).
+Live demo: https://alpha-traore-storm-analytics.alpha-traore8299.com (public).
 GitHub: https://github.com/alphatraore/python-storm-data-analysis
 
 The included source ZIP contains the corrected notebook, all regenerated outputs, audit CSVs, requirements, and a headless runner. GitHub has not been modified; its contents may differ from this updated download.
